@@ -8,3 +8,6 @@ Python 3.7
 Python-telegram-bot
 Requests
 Python-dotenv
+
+### Запуск
+Необходимо переименовать .env.example в .env и заполнить корректными данными
